@@ -1,0 +1,19 @@
+{
+  "name": "kuyabot-command",
+  "version": "0.0.0",
+  "description": "kuyabot-command ===============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dunkfordyce/kuyabot-command.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dunkfordyce/kuyabot-command/issues"
+  },
+  "homepage": "https://github.com/dunkfordyce/kuyabot-command"
+}
